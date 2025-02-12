@@ -1,1 +1,1 @@
-<h1 align=center>Hi, I’m @brencerego</h1>
+<h1 align=center>I’m @brencerego</h1>
