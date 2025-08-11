@@ -1,4 +1,4 @@
-<p align=center style="" >I’m @brencerego</p>
+<h1 align="center">I'm Brence Rego</h1>
 
 ---
 
