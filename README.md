@@ -1,7 +1,5 @@
 <h1 align="center">I'm Brence Rego</h1>
 
----
-
 ###
 <h3 align="left">Connect with me :</h3>
 
