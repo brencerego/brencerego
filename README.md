@@ -7,13 +7,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3500&pause=200&color=00FFF7&center=true&vCenter=true&width=900&lines=Cyber+Security+Student;Ethical+Hacker+in+Training;Full-Stack+Developer;Always+Learning+%F0%9F%92%AB;Let's+Secure+the+World+Together!" />
 </p>
 
----
 
-## 👋 **Hey, I'm Brence Rego!**
-Welcome to my digital playground where I break, build, and secure code every day.  
-**Follow** my journey into Cyber Security and ethical hacking.
-
----
 
 ## ⚡ **Quick Facts**
 - 🎓 **Cyber Security Student** 
